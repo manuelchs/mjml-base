@@ -1,0 +1,55 @@
+{
+    "common": {
+        "greetings": "hola, ",
+        "get_picks_title": "Recibe un pronóstico deportivo diario para football, soccer, basketball, tennis y baseball.",
+        "effectiveness1": "efectividad",
+        "effectiveness2": "ganadora",
+        "effectiveness3": "El historial de picks publicados respaldan a Here You Win con una efectividad de ganadora superior al 70%",
+        "guarantee1": "picks",
+        "guarantee2": "garantizados",
+        "guarantee3": "Si algún pick proporcionado es incorrecto, te recompensaremos con otro totalmente gratis. No hay nada que perder.",
+        "choose_sport": "*El deporte para cada pick diario es elegido por la plataforma para garantizar los resultados."
+    },
+    
+    "footer": {
+        "download_app": "descarga nuestra aplicación",
+        "services_line": "Los servicios de Here You Win se encuentran disponibles unicamente para usuarios mayores de 18 años. El uso de los servicios y las aplicaciones de Here You Win requiere la aceptacion de todas las Condiciones de uso aplicables y la Politica de privacidad de Here You Win.",
+        "logos_line": "Los logotipos de los equipos deportivos son marcas comerciales registradas en los Estados Unidos y / o en otros paises. Todas las demas marcas registradas son propiedad de sus respectivos dueños.",
+        "response_line": "No responda a este mensaje. Para ponerse en contacto con Here You Win, vea las opciones en linea.",
+        "secure_line": "Para asegurarse de que se entrega el mensaje de correo electronico, añada mailing@hereyouwin.com a su libreta de direcciones, contactos o lista de remitentes seguros."
+    },
+
+    "invitation": {
+        "title1": "recibiste",
+        "title2": "7 tips gratis",
+        "greetings": "hola, ",
+        "content1": " te ha invitado a formar parte del equipo de Here You Win.",
+        "content2": "Comienza a ganar con los pronósticos deportivos que nuestros expertos tienen para ti",
+        "button1": "comienza a ganar"
+    },
+
+    "new_pick": {
+        "title": "partido del día",
+        "button": "ver el pick de hoy",
+        "content_title": "Nuestros analistas han decidido, este es el pick que tenemos hoy para ti",
+        "content_text": "El pick de hoy ha sido publicado, corre a ver cuál es el pronóstico de hoy."
+    },
+
+    "reset_password": {
+        "title1": "restablecer",
+        "title2": "contraseña",
+        "greetings": "hola, ",
+        "content1": "Recibimos una solicitud para restablecer tu contraseña en Here You Win.",
+        "content2": "Haz clic en el enlace para elegir una nueva:",
+        "button": "restablecer contraseña",
+        "content3": "Si tu no realizaste la solicitud, ignora el mensaje."
+    },
+
+    "verify": {
+        "title1": "bienvenido a",
+        "title2": "here you win",
+        "greetings": "hola, ",
+        "content1": "Gracias por registrarte en Here You Win! Antes de empezar a ganar, por favor, verifica tu cuenta de correo.",
+        "button": "verificar mi cuenta"
+    }
+}
